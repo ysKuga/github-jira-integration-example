@@ -1,0 +1,7 @@
+{
+  "name": "github-jira-integration-example",
+  "version": "1.0.0",
+  "repository": "git@github.com:ysKuga/github-jira-integration-example.git",
+  "author": "Yoshihiko Kuga <horrormovies.noga@gmail.com>",
+  "license": "MIT"
+}
