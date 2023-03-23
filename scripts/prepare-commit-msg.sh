@@ -10,7 +10,7 @@ GITHUB_BRANCH_PREFIX="issue-"
 GITHUB_ISSUE_PREFIX="#"
 # チケット番号のプレフィクス
 # `{ISS-}123`
-TICKET_PREFIX="ISS-"
+TICKET_PREFIX="JPSS1-"
 
 # ブランチ名を取得
 # https://stackoverflow.com/questions/6245570/how-to-get-the-current-branch-name-in-git#answer-12142066
